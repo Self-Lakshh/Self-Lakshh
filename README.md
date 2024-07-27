@@ -10,7 +10,7 @@
 </p>
 
 
-* 🔍 AI/ML enthusiast, skilled in Python, TensorFlow, and Scikit-learn. Currently mastering AI/ML while pursuing MCA from [SPSU, Udaipur](https://www.spsu.ac.in).
+* 🔍 AI/ML enthusiast, skilled in Python, TensorFlow, and Scikit-learn. Currently mastering AI/ML while pursuing B.Tech from [SPSU, Udaipur](https://www.spsu.ac.in).
 
 * 💻 Proficient web developer with expertise in HTML5, CSS, Bootstrap, JS, ReactJS, Firebase, NodeJS, Django, MySQL, and MongoDB. Check out my repositories for projects.
 
