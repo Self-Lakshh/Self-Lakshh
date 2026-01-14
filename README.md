@@ -27,7 +27,7 @@
   <tr>
 <td><img src="https://stats-github-readme.vercel.app/api?username=Self-Lakshh&show_icons=true&theme=dark" /></td>
 <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Self-Lakshh&theme=dark" /></td>
-<td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Self-Lakshh&theme=github-dark" /></td>
+<td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Self-Lakshh&theme=github-compact" /></td>
   </tr>
 </table>
 
