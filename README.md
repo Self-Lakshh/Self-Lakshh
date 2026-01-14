@@ -27,6 +27,9 @@
   <tr>
     <td> <img src="https://github-readme-stats.vercel.app/api?username=Self-Lakshh&show_icons=true&theme=dark&locale=en&hide_border=true"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Self-Lakshh&theme=dark&hide_border=true&layout=compact"></td>
+           <td><img src="https://stats-github-readme.vercel.app/api?username=Self-Lakshh&show_icons=true&theme=dark" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com?user=Self-Lakshh&theme=dark" /></td>
+<td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Self-Lakshh&theme=github-dark" /></td>
   </tr>
 </table>
 
