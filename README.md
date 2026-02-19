@@ -22,19 +22,26 @@
 
 <br />
 
-## My Story
+## 👨‍💻 My Story
 
-Technology, for me, is the bridge between complex data and real-world solutions. As a **B.Tech undergraduate at [SPSU, Udaipur](https://www.spsu.ac.in)**, I have dedicated my academic and personal pursuits to understanding the architecture of intelligent systems.
+I am a **Computer Science student at [SPSU, Udaipur](https://www.spsu.ac.in)**. I love technology and building things that matter.
 
-My journey is driven by two core missions:
-*   **Deciphering Data:** I leverage **Python and Machine Learning** to uncover patterns in chaos. My recent work, *"Decoding School Dropout Rate Factors,"* presented at an International Research Convention, reflects my commitment to using AI for social analytics.
-*   **Engineering Experiences:** Beyond algorithms, I build responsive, robust applications. Specializing in the **MERN Stack**, I create digital ecosystems that are as intuitive as they are powerful.
-
-I believe in open-source collaboration and the continuous cycle of learning and sharing.
+*   **AI & Research:** I use **Python and Machine Learning** to solve real-world problems. I recently analyzed **School Dropout Rates** using ML models.
+*   **Web Development:** I build fast, modern websites using the **MERN Stack** (MongoDB, Express, React, Node.js).
+*   **Always Learning:** I am constantly improving my skills in **Data Structures & Algorithms** and sharing my knowledge.
 
 <br />
 
-## Technical Arsenal
+## 🚀 Featured Projects
+
+| **1. AI Research Analysis** | **2. DSA Learning Hub** | **3. Full Stack Web App** |
+| :---: | :---: | :---: |
+| ML models decoding factors behind school dropout rates. Presented at Int. Research Convention. | A comprehensive collection of Data Structures and Algorithms solutions in Python. | A responsive and robust web application built with the MERN stack. |
+| [![View Project](https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Self-Lakshh?tab=repositories) | [![View Project](https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Self-Lakshh?tab=repositories) | [![View Project](https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Self-Lakshh?tab=repositories) |
+
+<br />
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -47,27 +54,30 @@ I believe in open-source collaboration and the continuous cycle of learning and 
 
 <br />
 
-## GitHub Analytics
+## � GitHub Analytics
 
-<div align="center">
-
-<!-- Card 1: Trophies - Wide Banner -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Self-Lakshh&theme=radical&no-frame=true&margin-w=4" alt="Trophies" width="100%" />
-</a>
-
-<br/><br/>
-
-<!-- Row 2: Stats & Streak - Side by Side -->
-<img src="https://github-readme-stats.vercel.app/api?username=Self-Lakshh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="General Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Self-Lakshh&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
-
-<br/><br/>
-
-<!-- Card 4: Top Languages - Wide -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Self-Lakshh&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="100%" />
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://stats-github-readme.vercel.app/api?username=Self-Lakshh&show_icons=true&theme=tokyonight"
+           width="100%" height="200"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Self-Lakshh&theme=tokyonight"
+           width="100%" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Self-Lakshh&layout=compact&theme=tokyonight"
+           width="100%" height="200"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Self-Lakshh&theme=github-compact"
+           width="100%" height="200"/>
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
