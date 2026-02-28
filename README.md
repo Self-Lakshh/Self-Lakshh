@@ -37,7 +37,7 @@ I am a **Computer Science student at [SPSU, Udaipur](https://www.spsu.ac.in)**. 
 | **1. SaaS Restaurant Management System** | **2. Research Information Management System - RIMS** | **3. Hostel Leave ERP (security Gate & Admin Portal)** |
 | :---: | :---: | :---: |
 | ML models decoding factors behind school dropout rates. Presented at Int. Research Convention. | A comprehensive collection of Data Structures and Algorithms solutions in Python. | A responsive and robust web application built with the MERN stack. |
-| [![View Project](https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Self-Lakshh?tab=repositories) | [![View Project](https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Self-Lakshh?tab=repositories) | [![View Project](https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Self-Lakshh?tab=repositories) |
+| [![View Project](https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Self-Lakshh?tab=repositories) | [![View Project](https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Self-Lakshh?tab=repositories) | [![View Security-Portal](https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Self-Lakshh?tab=repositories) [![View Admin-Portal](https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Self-Lakshh?tab=repositories) |
 
 <br />
 
