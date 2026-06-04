@@ -59,21 +59,21 @@ I am a **Computer Science student at [SPSU, Udaipur](https://www.spsu.ac.in)**. 
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      <img src="https://stats-github-readme.vercel.app/api?username=Self-Lakshh&show_icons=true&theme=tokyonight"
+      <img src="https://stats-github-readme.vercel.app/api?username=lakshhchopra&show_icons=true&theme=tokyonight"
            width="100%" height="200"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Self-Lakshh&theme=tokyonight"
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshhchopra&theme=tokyonight"
            width="100%" height="200"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Self-Lakshh&layout=compact&theme=tokyonight"
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lakshhchopra&layout=compact&theme=tokyonight"
            width="100%" height="200"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Self-Lakshh&theme=github-compact"
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshhchopra&theme=github-compact"
            width="100%" height="200"/>
     </td>
   </tr>
